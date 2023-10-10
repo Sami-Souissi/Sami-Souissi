@@ -99,4 +99,4 @@ You can explore my GitHub activity and contributions by visiting my [GitHub prof
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
 
-https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+https://sami-souissi.github.io/Sami-Souissi//Graphics/strategy_pill_f3c2b91bb6.webm
