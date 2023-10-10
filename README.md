@@ -1,22 +1,9 @@
 # Hello, I'm Sami Souissi 👋
 
 I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. Welcome to my GitHub profile!
+![image](https://sami-souissi.github.io/Sami-Souissi/Graphics/lang%20dark.gif#gh-dark-mode-only)
+![image](https://sami-souissi.github.io/Sami-Souissi/Graphics/lang%20light.gif#gh-light-mode-only)
 
-<div class="theme-switcher">
-  <img src="./Graphics/lang light.gif" alt="Light Theme" id="light-gif">
-  <img src="./Graphics/lang dark.gif.gif" alt="Dark Theme" id="dark-gif">
-</div>
-
-<style>
-  @media (prefers-color-scheme: light) {
-    #light-gif { display: inline; }
-    #dark-gif { display: none; }
-  }
-  @media (prefers-color-scheme: dark) {
-    #light-gif { display: none; }
-    #dark-gif { display: inline; }
-  }
-</style>
 
 
 <div style="text-align: center;">
