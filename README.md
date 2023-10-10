@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="30%" src="./Graphics/logo02.gif" alt="Material Bread logo" >
+    <img width="30%" src="./Graphics/logo.gif" alt="Material Bread logo" >
 </p>
 
 
