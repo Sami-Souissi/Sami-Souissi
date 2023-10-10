@@ -2,6 +2,29 @@
 
 I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. Welcome to my GitHub profile!
 
+<div class="theme-switcher">
+  <img src="./Graphics/lang light.gif" alt="Light Theme" id="light-gif">
+  <img src="./Graphics/lang dark.gif.gif" alt="Dark Theme" id="dark-gif">
+</div>
+
+<style>
+  @media (prefers-color-scheme: light) {
+    #light-gif { display: inline; }
+    #dark-gif { display: none; }
+  }
+  @media (prefers-color-scheme: dark) {
+    #light-gif { display: none; }
+    #dark-gif { display: inline; }
+  }
+</style>
+
+
+<div style="text-align: center;">
+<img src="">
+</div>
+
+
+
 ## About Me
 
 - 🔬 Final year student at [ENET'COM](your-university-website), studying Network Engineering.
