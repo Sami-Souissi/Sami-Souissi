@@ -37,7 +37,7 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 
 ![image](https://sami-souissi.github.io/Sami-Souissi/Graphics/lang%20dark.gif#gh-dark-mode-only)
 
-![image](https://sami-souissi.github.io/Sami-Souissi/Graphics/lang%20light.gif#gh-light-mode-only)
+
 
 - **Programming Languages:** Java, Python, JavaScript, HTML/CSS.
 - **Web Technologies:** React, Node.js, Express, RESTful APIs.
