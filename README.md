@@ -15,7 +15,6 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 
 Here are a few noteworthy projects I've worked on:
 
-
 ### [JSONWave](https://github.com/Sami-Souissi/JSONWAVE_SAAS)
 
 JSONWave is a SaaS (Software as a Service) platform designed for manipulating, editing, and parsing JSON files in the cloud. With JSONWave, users can streamline their JSON file operations and collaborate seamlessly.
