@@ -1,9 +1,10 @@
-<div style="text-align:center;">
-  <img src="./Graphics/logo.gif" alt="Image 1" width="10%">
-</div>
+
+<p align="center">
+    <img width="20%" src="./Graphics/logo.gif" alt="Material Bread logo" >
+</p>
 
 
-# Hello, I'm Sami Souissi 👋
+# Hello, there ! 👋
 
 I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. Welcome to my GitHub profile!
 
@@ -55,7 +56,7 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 
 ### Mobile Development
 <div style="text-align:center;">
-    <img src="./Graphics/mobileframeworks.gif" alt="Image 1">
+    <img src="./Graphics/mobileframeworks.gif" alt="Image 1" >
 </div>
 
 ### Web Development
