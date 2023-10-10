@@ -35,7 +35,15 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 
 ## Skills
 
-![image](https://sami-souissi.github.io/Sami-Souissi/Graphics/lang%20dark.gif#gh-dark-mode-only)
+<div style="text-align:center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td><img src="./Graphics/lang dark.gif" alt="Image 1"></td>
+      <td><img src="./Graphics/lang02.gif" alt="Image 2"></td>
+    </tr>
+  </table>
+</div>
+
 
 
 
@@ -46,15 +54,17 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 - **Version Control:** Git, GitHub.
 - **Motion Graphics:** Adobe After Effects, Adobe Premiere Pro.
 
-## Skills and Technologies
+## Frameworks 
 
 Here are some of the skills and technologies I've worked with:
 
 ### Mobile Development
+<div style="text-align:center;">
+    <img src="./Graphics/mobileframeworks.gif" alt="Image 1">
+</div>
 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+![mobile skills](./Graphics/mobileframeworks.gif)
 
 ### Web Development
 
