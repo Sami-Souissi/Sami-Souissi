@@ -44,12 +44,6 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
   </table>
 </div>
 
-
-
-
-- **Programming Languages:** Java, Python, JavaScript, HTML/CSS.
-- **Web Technologies:** React, Node.js, Express, RESTful APIs.
-- **Database:** SQL, MongoDB.
 - **Cloud Platforms:** AWS, Azure.
 - **Version Control:** Git, GitHub.
 - **Motion Graphics:** Adobe After Effects, Adobe Premiere Pro.
@@ -60,15 +54,9 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 </div>
 
 ### Web Development
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<div style="text-align:center;">
+    <img src="./Graphics/web.gif" alt="Image 1">
+</div>
 
 ### Desktop Development
 
