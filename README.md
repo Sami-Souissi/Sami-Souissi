@@ -54,17 +54,10 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 - **Version Control:** Git, GitHub.
 - **Motion Graphics:** Adobe After Effects, Adobe Premiere Pro.
 
-## Frameworks 
-
-Here are some of the skills and technologies I've worked with:
-
 ### Mobile Development
 <div style="text-align:center;">
     <img src="./Graphics/mobileframeworks.gif" alt="Image 1">
 </div>
-
-
-![mobile skills](./Graphics/mobileframeworks.gif)
 
 ### Web Development
 
@@ -93,15 +86,6 @@ Here are some of the skills and technologies I've worked with:
 ### IoT and Raspberry Pi
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-
-### Android Development
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-These badges represent some of the technologies and platforms I've worked with, and I'm continually expanding my skill set.
-
-
 ## Let's Collaborate!
 
 - 📧 Email: samisouissi708@gmail.com
