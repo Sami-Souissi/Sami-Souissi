@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="20%" src="./Graphics/logo.gif" alt="Material Bread logo" >
+    <img width="15%" src="./Graphics/logo.gif" alt="Material Bread logo" >
 </p>
 
 
@@ -77,7 +77,7 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch%20linux&logoColor=white)
 
-### IoT and Raspberry Pi
+### IoT 
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ## Let's Collaborate!
