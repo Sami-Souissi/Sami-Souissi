@@ -1,3 +1,8 @@
+<div style="text-align:center;">
+  <img src="./Graphics/logo.gif" alt="Image 1" width="10%">
+</div>
+
+
 # Hello, I'm Sami Souissi 👋
 
 I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. Welcome to my GitHub profile!
