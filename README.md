@@ -1,4 +1,10 @@
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <p align="center">
     <img width="20%" src="./Graphics/logo.gif" alt="Material Bread logo" >
 </p>
@@ -74,7 +80,6 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
   </table>
 </div>
 
-- **Cloud Platforms:** AWS, Azure.
 - **Version Control:** Git, GitHub.
 - **Motion Graphics:** Adobe After Effects, Adobe Premiere Pro.
 
@@ -102,6 +107,8 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+
 
 
 ### Operating Systems
