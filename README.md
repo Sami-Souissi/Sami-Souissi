@@ -1,12 +1,6 @@
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <p align="center">
-    <img width="20%" src="./Graphics/logo.gif" alt="Material Bread logo" >
+    <img width="10%" src="./Graphics/logo.gif" alt="Material Bread logo" >
 </p>
 
 
@@ -27,7 +21,7 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 
 Here are a few noteworthy projects I've worked on:
 <div style="text-align:center;">
-  <table style="margin: 0 auto;border-collapse: collapse;">
+  <table style="margin: 0 auto;border: none;">
     <tr>
       <td> <a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS"><img src="./Graphics/jsonwave.gif" alt="Image 1"></a>
       <details >
