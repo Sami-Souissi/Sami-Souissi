@@ -19,6 +19,19 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 
 ## Projects
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 Here are a few noteworthy projects I've worked on:
 <div style="text-align:center;">
   <table style="margin: 0 auto;border: none;">
