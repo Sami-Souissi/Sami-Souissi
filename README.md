@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="30%" src="./Graphics/logo.gif" alt="Material Bread logo" >
+    <img width="20%" src="./Graphics/logo.gif" alt="Material Bread logo" >
 </p>
 
 
@@ -20,20 +20,44 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 ## Projects
 
 Here are a few noteworthy projects I've worked on:
-
-### [JSONWave](https://github.com/Sami-Souissi/JSONWAVE_SAAS)
-
-JSONWave is a SaaS (Software as a Service) platform designed for manipulating, editing, and parsing JSON files in the cloud. With JSONWave, users can streamline their JSON file operations and collaborate seamlessly.
-
-### [ECJE App](https://github.com/Sami-Souissi/ECJE_Plus_APP)
-
-ECJE App is a professional application tailored for digital agencies. It showcases their services, projects, and technical prowess. Users can explore the agency's portfolio and even place orders for their digital products directly through the app.
-
-### [BMW Connect](link-to-bmw-connect)
-
-BMW Connect is a comprehensive system consisting of a mobile app and a server hosted on the BMW vehicle system. This innovative solution enables users to authenticate using their biometrics and gain remote control of their BMW vehicle. Stay connected to your BMW like never before.
+<div style="text-align:center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td> <a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS"><img src="./Graphics/jsonwave.gif" alt="Image 1"></a>
+      <details >
+          <summary>Details</summary>
+          <p style="text-align: justify;">
+          BMW Connect is a comprehensive system consisting of a mobile app and a server hosted on the BMW vehicle system. This innovative solution enables users to authenticate using their biometrics and gain remote control of their BMW vehicle. Stay connected to your BMW like never before.
+          </p> 
+        </details>
+      </td>
+      <td><a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS">
+      <img src="./Graphics/bmw.gif" alt="Image 2"></a>
+      <details>
+          <summary>Details</summary>
+          <p style="text-align: justify;">
+          JSONWave is a SaaS (Software as a Service) platform designed for manipulating, editing, and parsing JSON files in the cloud. With JSONWave, users can streamline their JSON file operations and collaborate seamlessly.</p>
+        </details>
+      </td>
+      <td><a href="https://github.com/Sami-Souissi/ECJE_Plus_APP">
+      <img src="./Graphics/ecje.gif" alt="Image 2"></a>
+      <details>
+          <summary>Details</summary>
+          <p style="text-align: justify;">
+          ECJE App is a professional application tailored for digital agencies. It showcases their services, projects, and technical prowess. Users can explore the agency's portfolio and even place orders for their digital products directly through the app.</p>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+<div>
+<br>
+</div>
 
 I'm also actively working on building my [portfolio](link-to-portfolio), where I'll showcase even more of my work. Stay tuned for updates!
+
+**Explore All Repositories:** If you're eager to see all of my projects, feel free to check out my [GitHub profile](https://github.com/Sami-Souissi?tab=repositories). There, you'll find a comprehensive list of my repositories, each highlighting a unique aspect of my skills and experiences.
+
 
 Feel free to check back soon for my full portfolio. In the meantime, explore these featured projects to get a sense of my skills and experiences.
 
@@ -44,8 +68,8 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 <div style="text-align:center;">
   <table style="margin: 0 auto;">
     <tr>
-      <td><img src="./Graphics/lang dark.gif" alt="Image 1"></td>
-      <td><img src="./Graphics/lang02.gif" alt="Image 2"></td>
+      <td><img src="./Graphics/lang dark.gif" alt="Image 1" style="border-radius: 10%;"></td>
+      <td><img src="./Graphics/lang02.gif" alt="Image 2" style="border-radius: 10%;"></td>
     </tr>
   </table>
 </div>
@@ -56,12 +80,12 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 
 ### Mobile Development
 <div style="text-align:center;">
-    <img src="./Graphics/mobileframeworks.gif" alt="Image 1" >
+    <img src="./Graphics/mobileframeworks.gif" alt="Image 1" style="border-radius: 10%;">
 </div>
 
 ### Web Development
 <div style="text-align:center;">
-    <img src="./Graphics/web.gif" alt="Image 1">
+    <img src="./Graphics/web.gif" alt="Image 1" style="border-radius: 10%;">
 </div>
 
 ### Desktop Development
