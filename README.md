@@ -21,7 +21,7 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 
 Here are a few noteworthy projects I've worked on:
 <div style="text-align:center;">
-  <table style="margin: 0 auto;">
+  <table style="margin: 0 auto;border-collapse: collapse;">
     <tr>
       <td> <a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS"><img src="./Graphics/jsonwave.gif" alt="Image 1"></a>
       <details >
@@ -95,6 +95,15 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 ![Tauri](https://img.shields.io/badge/Tauri-AAAAAA?style=for-the-badge&logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
+### Cloud Technologies
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 ### Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -106,7 +115,7 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ## Let's Collaborate!
 
-- 📧 Email: samisouissi708@gmail.com
+[![Email Me](https://img.shields.io/badge/Email%20Me-📧-blue)](mailto:youremail@example.com)
 
 I'm always open to new opportunities and collaborations. If you'd like to work together or have any questions, feel free to reach out. Let's make amazing things together!
 
