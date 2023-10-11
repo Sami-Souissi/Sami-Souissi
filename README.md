@@ -17,7 +17,7 @@ I'm a 22-year-old ICT student from Tunisia, specializing in network engineering 
 - 💻 A Full-stack developer with a keen interest in solving complex problems.
 - 📚 Constantly learning and keeping up with the latest industry trends.
 
-## Projects
+## Featured Projects
 
 
 Here are a few noteworthy projects I've worked on:
@@ -28,7 +28,7 @@ Here are a few noteworthy projects I've worked on:
       <details >
           <summary>Details</summary>
           <p style="text-align: justify;">
-          BMW Connect is a comprehensive system consisting of a mobile app and a server hosted on the BMW vehicle system. This innovative solution enables users to authenticate using their biometrics and gain remote control of their BMW vehicle. Stay connected to your BMW like never before.
+           JSONWave is a SaaS (Software as a Service) platform designed for manipulating, editing, and parsing JSON files in the cloud. With JSONWave, users can streamline their JSON file operations and collaborate seamlessly.
           </p> 
         </details>
       </td>
@@ -37,7 +37,7 @@ Here are a few noteworthy projects I've worked on:
       <details>
           <summary>Details</summary>
           <p style="text-align: justify;">
-          JSONWave is a SaaS (Software as a Service) platform designed for manipulating, editing, and parsing JSON files in the cloud. With JSONWave, users can streamline their JSON file operations and collaborate seamlessly.</p>
+          BMW Connect is a comprehensive system consisting of a mobile app and a server hosted on the BMW vehicle system. This innovative solution enables users to authenticate using their biometrics and gain remote control of their BMW vehicle. Stay connected to your BMW like never before.</p>
         </details>
       </td>
       <td><a href="https://github.com/Sami-Souissi/ECJE_Plus_APP">
