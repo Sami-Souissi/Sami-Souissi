@@ -32,7 +32,7 @@ Here are a few noteworthy projects I've worked on:
           </p> 
         </details>
       </td>
-      <td><a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS">
+      <td><a href="https://github.com/Sami-Souissi/BMW_CONNECT-Dashboard-">
       <img src="./Graphics/bmw.gif" alt="Image 2"></a>
       <details>
           <summary>Details</summary>
@@ -40,12 +40,12 @@ Here are a few noteworthy projects I've worked on:
           BMW Connect is a comprehensive system consisting of a mobile app and a server hosted on the BMW vehicle system. This innovative solution enables users to authenticate using their biometrics and gain remote control of their BMW vehicle. Stay connected to your BMW like never before.</p>
         </details>
       </td>
-      <td><a href="https://github.com/Sami-Souissi/ECJE_Plus_APP">
-      <img src="./Graphics/ecje.gif" alt="Image 2"></a>
+      <td><a href="https://github.com/Sami-Souissi/Threadfox---AI-Video-Content-Creation-SaaS">
+      <img src="./Graphics/threadfox.gif" alt="Image 2"></a>
       <details>
           <summary>Details</summary>
           <p style="text-align: justify;">
-          ECJE App is a professional application tailored for digital agencies. It showcases their services, projects, and technical prowess. Users can explore the agency's portfolio and even place orders for their digital products directly through the app.</p>
+          Threadfox is a cutting-edge web-based Software-as-a-Service (SaaS) application designed to simplify and automate video content creation. Whether you're a content creator, media manager, marketing firm, or freelancer, Threadfox is your go-to solution for effortlessly transforming text from Reddit into engaging videos. This powerful platform leverages the Reddit API and state-of-the-art text-to-speech (TTS) technology to generate high-quality audio. Furthermore, Threadfox allows you to download and edit videos from YouTube, trim them to your desired length, and overlay them with the TTS audio for the creation of stunning final videos.</p>
         </details>
       </td>
     </tr>
