@@ -32,7 +32,7 @@ Here are a few noteworthy projects I've worked on:
           </p> 
         </details>
       </td>
-      <td><a href="https://github.com/Sami-Souissi/JSONWAVE_SAAS">
+      <td><a href="https://github.com/Sami-Souissi/BMW_CONNECT-Dashboard-">
       <img src="./Graphics/bmw.gif" alt="Image 2"></a>
       <details>
           <summary>Details</summary>
