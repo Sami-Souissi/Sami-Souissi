@@ -118,7 +118,7 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ## Let's Collaborate!
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-📧-blue)](mailto:youremail@example.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-📧-blue)](mailto:samisouissi708@gmail.com)
 
 I'm always open to new opportunities and collaborations. If you'd like to work together or have any questions, feel free to reach out. Let's make amazing things together!
 
