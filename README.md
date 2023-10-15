@@ -6,11 +6,12 @@
 
 # Hello, there ! 👋
 
-I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. Welcome to my GitHub profile!
+I'm a 22-year-old ICT student from Tunisia, specializing in network engineering with a focus on cloud technologies. 
+Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔬 Final year student at [ENET'COM](your-university-website), studying Network Engineering.
+- 🔬 Final year student at [ENET'COM](https://enetcom.rnu.tn/fr), studying Network Engineering.
 - 🌐 Passionate about Cloud Technologies, Networking, and Full-stack Development.
 - 💼 Experienced in building a wide range of projects, including web apps, mobile apps, desktop apps, and SaaS products.
 - 🎨 Skilled in motion graphics, enhancing the front-end user experience.
@@ -55,7 +56,7 @@ Here are a few noteworthy projects I've worked on:
 <br>
 </div>
 
-I'm also actively working on building my [portfolio](link-to-portfolio), where I'll showcase even more of my work. Stay tuned for updates!
+I'm also actively working on building my [portfolio](https://sami-souissi.github.io/Sami-Souissi/), where I'll showcase even more of my work. Stay tuned for updates!
 
 **Explore All Repositories:** If you're eager to see all of my projects, feel free to check out my [GitHub profile](https://github.com/Sami-Souissi?tab=repositories). There, you'll find a comprehensive list of my repositories, each highlighting a unique aspect of my skills and experiences.
 
@@ -120,8 +121,6 @@ Feel free to check back soon for my full portfolio. In the meantime, explore the
 [![Email Me](https://img.shields.io/badge/Email%20Me-📧-blue)](mailto:youremail@example.com)
 
 I'm always open to new opportunities and collaborations. If you'd like to work together or have any questions, feel free to reach out. Let's make amazing things together!
-
-You can explore my GitHub activity and contributions by visiting my [GitHub profile](https://github.com/sami-souissi).
 
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
